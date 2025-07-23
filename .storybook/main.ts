@@ -24,6 +24,16 @@ const config: StorybookConfig = {
       propFilter: (prop) => (prop.parent ? !/node_modules/.test(prop.parent.fileName) : true),
     },
   },
+  viteFinal: async (config) => {
+    config.css = config.css || {};
+    config.css.postcss = {
+      plugins: [
+        require('tailwindcss'),
+        require('autoprefixer'),
+      ],
+    };
+    return config;
+  },
 };
 
 export default config;
