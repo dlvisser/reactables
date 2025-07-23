@@ -13,10 +13,10 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "rootDir": ".."
   },
   "include": [
-    "../src/**/*",
     "*.ts",
     "*.tsx"
   ],
