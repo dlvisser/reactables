@@ -34,12 +34,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/reactables.git"
+    "url": "https://github.com/dlvissser/reactables.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/reactables/issues"
+    "url": "https://github.com/dlvissser/reactables/issues"
   },
-  "homepage": "https://github.com/yourusername/reactables#readme",
+  "homepage": "https://github.com/dlvissser/reactables#readme",
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"

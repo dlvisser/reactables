@@ -173,7 +173,7 @@ Reactables uses Tailwind CSS for styling. Make sure to include Tailwind CSS in y
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/reactables.git
+git clone https://github.com/dlvissser/reactables.git
 cd reactables
 ```
 
@@ -215,6 +215,6 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 📖 [Documentation](https://yourusername.github.io/reactables)
-- 🐛 [Issues](https://github.com/yourusername/reactables/issues)
-- 💬 [Discussions](https://github.com/yourusername/reactables/discussions) 
+- 📖 [Documentation](https://dlvissser.github.io/reactables)
+- 🐛 [Issues](https://github.com/dlvissser/reactables/issues)
+- 💬 [Discussions](https://github.com/dlvissser/reactables/discussions) 
